@@ -1,0 +1,26 @@
+body
+{
+     background-size: cover;
+}
+#heading
+{
+     background-color: black;
+     width: 80%;
+     height: 120%;
+     
+}
+#name
+{
+     color: yellow;
+}
+h2
+{
+     color: yellow;
+}
+#credit
+{
+     color:rgb(255, 255, 255);
+     border: solid;
+     border-radius: 20px ;
+     border-color: white;
+}
